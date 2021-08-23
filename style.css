@@ -1,0 +1,73 @@
+body
+{
+    font-family: nexa;
+    text-align: center;
+}
+.header
+{
+    font-family: nexa;
+    text-align: center;
+    
+}
+
+.headerlinks
+{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+}
+.header2
+{
+    text-align: center;
+}
+a
+{
+    text-decoration: none;
+}
+.iPhone12
+{
+    text-align: center;
+}
+p
+{
+    color: rgb(165, 163, 163);
+}
+.headerspan
+{
+    padding: 10px;
+}
+.iPhone12Pro
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+.iPadair
+{
+    text-align: center;
+}
+.appleevent
+{
+    text-align: center;
+}
+.macbookair
+{
+    background-color: black;
+    color: white;
+}
+a
+{
+    color: rgb(12, 110, 202);
+}
+.watch
+{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin-top: 10px;
+}
+.red
+{
+    color: red;
+}
